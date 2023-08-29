@@ -6,7 +6,7 @@ This repository contains __slides__, __notebooks__ and __datasets__ for the __Ma
 ## YouTube
 Watch all NLP class video recordings in this [YouTube playlist](https://www.youtube.com/playlist?list=PL8P_Z6C4GcuWfAq8Pt6PBYlck4OprHXsw) from our [YouTube channel](https://www.youtube.com/channel/UC12LqyqTQYbXatYS9AA7Nuw/playlists).
 
-[![Playlist](https://img.youtube.com/vi/0FXKbEgz-uU/0.jpg)](https://www.youtube.com/playlist?list=PL8P_Z6C4GcuWfAq8Pt6PBYlck4OprHXsw)
+[![Playlist]](https://www.youtube.com/playlist?list=PL8P_Z6C4GcuWfAq8Pt6PBYlck4OprHXsw)
 
 ## Course Overview
 There are three lectures and one final project in this class. Course overview is below.
